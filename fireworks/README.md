@@ -8,8 +8,8 @@ An interactive web-based fireworks animation program built for the Git & GitHub 
 
 ## 👋 About This Project
 
-**Created by:** 'Saurav Parihar'
-**GitHub:** 'sauravparihar397-byte'
+**Created by:** 'Ayaan Singh'
+**GitHub:** 'Ayaan662693'
 
 `[Write your own description of your project here.]`
 
